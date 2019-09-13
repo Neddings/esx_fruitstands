@@ -9,7 +9,7 @@ server_scripts {
 	'locales/en.lua',
 	'locales/nl.lua',
 	'config.lua',
-	'server/main.lua'
+	'server/fruit_sv.lua'
 }
 
 client_scripts {
@@ -17,5 +17,5 @@ client_scripts {
 	'locales/en.lua',
 	'locales/nl.lua',
 	'config.lua',
-	'client/main.lua'
+	'client/fruit_cl.lua'
 }
